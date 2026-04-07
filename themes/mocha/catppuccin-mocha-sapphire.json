@@ -1,0 +1,12 @@
+{
+  "customThemeColors": {
+    "bg1": "#181825",
+    "bg2": "#1e1e2e",
+    "bg3": "#313244",
+    "txt1": "#cdd6f4",
+    "txt2": "#a6adc8",
+    "txt3": "#6c7086",
+    "txt4": "#74c7ec",
+    "txtErr": "#f38ba8"
+  }
+}

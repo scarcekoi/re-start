@@ -1,0 +1,21 @@
+---
+whiskers:
+  version: "^2.9.0"
+  matrix:
+    - flavor
+    - accent
+  filename: "themes/{{ flavor.identifier }}/catppuccin-{{ flavor.identifier }}-{{ accent }}.json"
+  hex_format: "#{{r}}{{g}}{{b}}{{z}}"
+---
+{
+  "customThemeColors": {
+    "bg1": "{{ mantle.hex }}",
+    "bg2": "{{ base.hex }}",
+    "bg3": "{{ surface0.hex }}",
+    "txt1": "{{ text.hex }}",
+    "txt2": "{{ subtext0.hex }}",
+    "txt3": "{{ overlay0.hex }}",
+    "txt4": "{{ flavor.colors[accent].hex }}",
+    "txtErr": "{{ red.hex }}"
+  }
+}
