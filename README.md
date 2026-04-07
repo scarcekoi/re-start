@@ -37,10 +37,11 @@
 ## Usage
 
 1. Download the flavor and accent combination of your choice from [themes](themes).
-2. Open **re-start**, go to **Settings**, and scroll to the bottom.
-3. Select **import json**
-4. Select the downloaded JSON file.
-5. Enjoy.
+2. Open **re-start** and go to **settings** > **theme**.
+3. Select **custom** and scroll to the bottom.
+4. Select **import json**
+5. Select the downloaded JSON file.
+6. Enjoy.
 
 ## 💝 Thanks to
 
